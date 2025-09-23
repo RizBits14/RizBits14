@@ -30,7 +30,7 @@
 <h2 align="center">Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,flask,mysql,github,vscode,ubuntu,raspberrypi,latex,js"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,flask,react,mysql,github,vscode,ubuntu,raspberrypi,latex,js"/>
 </div>
 
 <br/>
