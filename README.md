@@ -30,7 +30,8 @@
 <h2 align="center">Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,flask,js,react,mysql,github,vscode,firebase,ubuntu,raspberrypi,latex,netlify"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,flask,js,react,mysql,github"/>
+    <img src="https://skillicons.dev/icons?i=vscode,firebase,ubuntu,raspberrypi,latex,netlify"/><br>
 </div>
 
 <br/>
