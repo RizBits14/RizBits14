@@ -30,8 +30,8 @@
 <h2 align="center">Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,flask,js,react,mysql,github"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,firebase,ubuntu,raspberrypi,latex,netlify,figma"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,flask,js,react,mysql,github,nodejs,express,vercel"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,firebase,ubuntu,raspberrypi,latex,netlify,figma,mongodb"/>
 </div>
 
 <br/>
