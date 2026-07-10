@@ -86,13 +86,33 @@ const rizwanul = {
 
 ### 📊 GitHub Analytics
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RizBits14&theme=react&show_icons=true&hide_border=true&count_private=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=RizBits14&theme=react&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RizBits14&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=RizBits14&theme=react&hide_border=true" alt="GitHub Streak" />
 
 <br/>
+<br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizBits14&theme=react&show_icons=true&hide_border=true&layout=compact" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RizBits14&theme=github_dark&utcOffset=6" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizBits14&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RizBits14&theme=github_dark" alt="Repos Per Language" />
+
+<br/>
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizBits14&theme=github_dark" alt="Most Commit Language" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RizBits14&theme=github_dark&utcOffset=6" alt="Productive Time" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RizBits14&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
