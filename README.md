@@ -1,35 +1,35 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Rizwanul+Islam!;" />
-</h1>
+<p align="center">
+  <a href="https://github.com/RizBits14">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Rizwanul%20Islam" alt="Hello! I'm Rizwanul Islam" />
+  </a>
+</p>
 
-<h3 align="center">An aspiring Software Engineer from Dhaka 🇧🇩</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1500&color=ff7b72&center=true&vCenter=true&width=650&height=45&lines=I+write+code+that+works...+eventually.;Commit.+Push.+Pray.;Powered+by+coffee+and+console.log();Nobody+remains+an+atheist+during+production+deployments.;May+your+deploys+be+green+and+your+rollbacks+unnecessary." alt="Typing Animation" />
+</p>
 
-<br/>
+---
 
 <div align="center">
- 
- 👨🏻‍💻 I’m currently working on **Lawyer Hiring Website**
- 
- 📖 I’m currently learning **Software Engineering Fundamentals**
- 
- 🙋🏻‍♂️ Ask me about **Python, JavaScript, Flask... or anything [here](https://github.com/RizBits14/RizBits14/issues)**
 
- 🫨 Fun fact **The first computer “bug” was an actual real-life bug**
+## 🚀 About Me
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:mohammad.rizwanul.islam12014@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-rizwanul-islam-66636738a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://rizwanul-islam.netlify.app" target="_blank">
-   <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-</a>
+💻 Aspiring Software Engineer from **Dhaka, Bangladesh 🇧🇩**
+
+🚀 Always learning, always building, and always saying, *"Just one more feature."*
+
+👀 If my code works on the first try, I'm checking it twice.
+
+😅 Turning *"It doesn't work"* into *"It works... don't touch it."*
+
+🤝 *"It works on my machine™"* — now let's make it work on yours too.
+
+🙏 May your deploys be green and your rollbacks unnecessary.
+
 </div>
- 
+
+---
+
 <div align="center">
 
 ## 🛠️ Tech I Work With
@@ -43,17 +43,36 @@
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">My Stats 📊</h2>
-<br>
-<div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=RizBits14&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
-  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=RizBits14&theme=react&hide_border=true" alt=""/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizBits14&theme=react&show_icons=true&hide_border=true&layout=donut" alt=""/>
+<div align="center">
+
+## My Stats 📊
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=RizBits14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=0891b2&icon_color=0891b2" />
+
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=RizBits14&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=0891b2" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RizBits14&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
 </div>
-<br/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=RizBits14&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RizBits14&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RizBits14/RizBits14/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
