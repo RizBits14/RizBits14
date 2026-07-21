@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1500&color=ff7b72&center=true&vCenter=true&width=650&height=45&lines=I+write+code+that+works...+eventually.;Commit.+Push.+Pray.;Powered+by+coffee+and+console.log();Nobody+remains+an+atheist+during+production+deployments.;May+your+deploys+be+green+and+your+rollbacks+unnecessary." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1500&color=ff7b72&center=true&vCenter=true&width=650&height=45&lines=I+write+code+that+works...+eventually.;Commit.+Push.+Pray.;Nobody+remains+an+atheist+during+production+deployments.;" alt="Typing Animation" />
 </p>
 
 ---
